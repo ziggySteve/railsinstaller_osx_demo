@@ -6,6 +6,7 @@ gem 'rails', '3.2.12'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'activerecord-jdbcsqlite3-adapter'
+gem 'mysql2', group: 'production'
 
 gem 'jruby-openssl'
 
